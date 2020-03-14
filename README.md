@@ -1,2 +1,3 @@
 # python
-This is for python
+FOR PROGRAMMNG LANG.
+   
